@@ -20,6 +20,5 @@
     "@types/node": "^18.8.1",
     "gitignore": "^0.7.0",
     "readline-sync": "^1.4.10"
-  },
-  "devDependencies": {}
+  }
 }
